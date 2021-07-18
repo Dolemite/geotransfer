@@ -1,0 +1,9 @@
+{
+  "position": [8449.401305, 9125.794363, -17.461357],
+  "velocity": [-1.419072, 6.780149, 0.002865],
+  "epoch": "2021-06-26-19:20:00.000-UTC",
+  "target_semi_major_axis": 42164,
+  "target_sma_error": 10,
+  "target_eccentricity": 0.001,
+  "target_inclination": 1
+}
